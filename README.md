@@ -10,7 +10,7 @@ https://github.com/Synthetic/SYCache
 1. Install via [CocoaPods](http://cocoapods.org/)
 
 ```
-pod 'SYCache', :git => 'https://github.com/isghe/SYCache.git', :branch => 'pod'
+pod 'SYCache', :git => 'https://github.com/isghe/SYCache.git', :branch => 'pod_test'
 ```
 
 ## Author
