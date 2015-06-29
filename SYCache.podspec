@@ -25,9 +25,9 @@ Pod::Spec.new do |s|
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '6.1'
-  s.requires_arc = true
+  s.requires_arc = false
 
-  s.source_files = 'Pod/Classes/**/*', 'source/SYCache/*.m'
+  s.source_files = 'Pod/Classes/**/*', 'source/SYCache/*.m', 'source/SYCache/*.h'
   s.resource_bundles = {
     'SYCache' => ['Pod/Assets/*.png']
   }

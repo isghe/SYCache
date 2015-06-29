@@ -15,7 +15,7 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		755DBA2B1B41821700E227D5 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 755DBA271B41821700E227D5 /* LICENSE */; };
 		755DBA2C1B41821700E227D5 /* Readme.markdown in Sources */ = {isa = PBXBuildFile; fileRef = 755DBA281B41821700E227D5 /* Readme.markdown */; };
-		755DBA2D1B41821700E227D5 /* SYCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 755DBA2A1B41821700E227D5 /* SYCache.m */; };
+		755DBA2D1B41821700E227D5 /* SYCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 755DBA2A1B41821700E227D5 /* SYCache.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
