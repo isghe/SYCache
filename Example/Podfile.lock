@@ -1,0 +1,14 @@
+PODS:
+  - SYCache (0.1.0)
+
+DEPENDENCIES:
+  - SYCache (from `../`)
+
+EXTERNAL SOURCES:
+  SYCache:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SYCache: 67b8c7b6cc1bc4742274b855ae415b2a6e59e586
+
+COCOAPODS: 0.37.2
